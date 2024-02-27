@@ -1,0 +1,29 @@
+Input:
+It was many and many a year ago
+
+Output:
+I0t w1s m2y a1d m2y a y2r a1o
+
+========================================
+
+Input:
+Copyright,Microsoft:Corporation
+
+Output:
+C7t,M6t:C6n
+
+========================================
+
+Input:
+Google Bing|Yahoo-Yandex^DuckDuckGo
+
+Output:
+G3e B2g|Y3o-Y4x^D5o
+
+========================================
+
+Input:
+mahomes1kelce2hardman3clark4butker
+
+Output:
+m5s1k3e2h4n3c3k4b4r
